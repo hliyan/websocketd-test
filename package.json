@@ -1,0 +1,11 @@
+{
+  "name": "websocketd-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "websocketd --port=8080 node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
